@@ -1,4 +1,4 @@
-# **꧁ღ⊱♥ 𝒯𝐻𝐸 𝒟𝒜𝑅𝒦 𝒦𝐼𝒩𝒢 ♥⊱ღ꧂**
+# **<img src="[https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp](https://fontmeme.com/temporary/486633b49d49091050887f5370c4d8fc.png)" /></a> **
 ### `Si necesitas ayuda mandame mensaje`
    ༒☬༒ ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  ༒☬༒
 
@@ -21,7 +21,7 @@
 
 
 ## `EDITOR DEL BOT` 
-[![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)]
+[![JEIRONY](https://i.imgur.com/KVqY6z3.jpg)
 ```bash
 `THE DARK KING ___ By JEIRONY` 
 ```
