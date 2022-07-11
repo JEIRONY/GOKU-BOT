@@ -1,7 +1,5 @@
 # [![Yovanihades1212](https://raw.githubusercontent.com/Yovanihades1212/HADES-BOT-MD/main/media/menus/Menu2.jpg)](https://github.com/Yovanihades1212/HADES-BOT-MD.git) 
-```bash
-`YOVANI___HADES-BOT-MD"` 
-```
+
 ### `Si necesitas ayuda mandame mensaje`
    ༒☬༒ ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  ༒☬༒
 
