@@ -1,4 +1,4 @@
-console.log('Iniciando | Starting 🚀🚀🚀')
+console.log('Iniciando | INICIANDO MI CARNAL 🚀🚀🚀')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -16,20 +16,19 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('HADES_BOT_MD\nYOVANI\nHADES_BOT_MD', {
+say('GOKU BOT\nJEIRONY\nGOKU - BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP GOKU - BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
-[•]-GRACIAS POR USAR LE BOT DE HADES 
+[•]-Owner : JEIRONY
+[•]-GRACIAS POR USAR LE BOT DE GOKU 
 [•]-SUBSCRIBETE LA CANAL YOUTUBE 
-[•]-CERRADO EL BOT YOVANI
 |< ================================================== >|`, {
   font: 'console',
   align: 'center',
