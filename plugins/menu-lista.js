@@ -165,6 +165,8 @@ conn.sendButtonImg(m.chat, pp, menu, '©GOKU-BOT\n █║▌║││█║▌�
 //ptt: true 
 //})
 }
-handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu1.2|ayuda|commands|commandos)$/i
-handler.fail = null
-module.exports = handler
+handler.help = ['en', 'dis'].map(v => v + 'able <option>')
+handler.tags = ['group', 'owner']
+handler.command = /^(menu|menú|memu|memú|help|info|comandos|2help|menu1.2|ayuda|commands|commandos|m|\?)$/i
+handler.exp = 50
+export default handler
