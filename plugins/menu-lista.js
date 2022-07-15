@@ -44,7 +44,7 @@ rows: [
         {title: "INVOCAR GRUPO", description: null, rowId: `${usedPrefix}invocar`},
         {title: "REGISTRO🏫", description: null, rowId: `${usedPrefix}register`},
           {title: "TU PERFIL", description: null, rowId: `${usedPrefix}perfil`},
-      {title: "JUEGOS", description: null, rowId: `${usedPrefix}Menujuegos`},
+      {title: "JUEGOS", description: null, rowId: `${usedPrefix}menujuegos`},
       {title: "MENU DEL DUEÑO", description: null, rowId: `${usedPrefix}menupropietario`},
        {title: "CUENTAS GB", description: null, rowId: `${usedPrefix}cuentasgb`},
        {title: "INFORMACION DEL BOT", description: null, rowId: `${usedPrefix}infobot`},
