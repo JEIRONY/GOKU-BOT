@@ -29,7 +29,7 @@ title: `𝙇𝙄𝙎𝙏𝘼 𝘿𝙀𝙎𝙋𝙇𝙀𝙂𝘼𝘽𝙇𝙀 | 𝘿
 rows: [
       {title: "GRUPOS", description: null, rowId: `${usedPrefix}grupos`},
       {title: "BUSCADORES", description: null, rowId: `${usedPrefix}menúbuscadores`},
-       {title: "ACTIVAR O DESACTIVAR", description: null, rowId: `${usedPrefix}menuactivación`},
+       {title: "ACTIVAR O DESACTIVAR", description: null, rowId: `${usedPrefix}menu2`},
          {title: "ESTADO", description: null, rowId: `${usedPrefix} estado`},
          {title: "ACTIVAR BIENVENIDA", description: null, rowId: `${usedPrefix}enable welcome`},
            {title: "DESACTIVAR BIENVENIDA࣭", description: null, rowId: `${usedPrefix}disable welcome`},
