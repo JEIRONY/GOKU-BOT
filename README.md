@@ -21,7 +21,7 @@
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/JEIRONY/GOKU-BOT/blob/master/config.js)
 
 ### ` ACTIVAR EN HEROKU `
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JEIRONY/THE-DARK-KING)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JEIRONY/GOKU-BOT)
 ```bash
 
 
