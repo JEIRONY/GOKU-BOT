@@ -2,14 +2,12 @@ import fs from 'fs'
 function handler(m, { conn }) {
 let text = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤 | 𝘾𝙤𝙣𝙩𝙖𝙘𝙩* 
-*Wa.me/5212411347467 (CREADOR)
-*Wa.me/573152139466 (BOT)*
-*Wa.me/5212411719888 (BOT)*
+*Wa.me/573152139466 (CREADOR)
 *【｡_｡】 ɢᴏᴋᴜ - ʙᴏᴛ 【｡_｡】*
 `.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '【｡_｡】 ɢᴏᴋᴜ - ʙᴏᴛ 【｡_｡】|YOVANI ',
+title: '【｡_｡】 ɢᴏᴋᴜ - ʙᴏᴛ 【｡_｡】|JEIRONY ',
 body: '𝐂𝐫𝐞𝐚𝐝𝐨𝐫o| 𝐂𝐫𝐞𝐚𝐭𝐨𝐫',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
 sourceUrl: `https://wa.me/573152139466`}}})
