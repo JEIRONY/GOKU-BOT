@@ -109,7 +109,7 @@ throw e
 }}
 handler.help = ['menu', 'help', '?']
 handler.tags = ['main']
-handler.command = /^(activacion|menu2\?)$/i
+handler.command = /^(menuactivación|Menugestion\?)$/i
 handler.exp = 50
 handler.fail = null
 export default handler
