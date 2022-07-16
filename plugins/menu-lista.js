@@ -58,7 +58,7 @@ rows: [
         {title: "💟⃟ᬽ𝑳𝑶𝑮𝑶𝑺💟⃟ᬽ", description: null, rowId: `${usedPrefix}logos`},
       {title: "𝄣⃟🎧𝑴𝑬𝑵Ú 𝑫𝑬 𝑨𝑼𝑫𝑰𝑶𝑺𝄣⃟🎧", description: null, rowId: `${usedPrefix}menu2`},
       {title: "✧͢⃟ᤢ💎𝑴𝑬𝑵𝑼 𝑫𝑬 𝑮𝑬𝑺𝑻𝑰𝑶𝑵✧͢⃟ᤢ🔧", description: null, rowId: `${usedPrefix}menugestion`},
-      {title: "ⓞ⃟🔞𝑴𝑬𝑵𝑼 𝑫𝑬 𝑳𝑨𝑩𝑰𝑩𝑳𝑰𝑨+18ⓞ⃟☔", description: null, rowId: `${usedPrefix}labiblia`},
+      {title: ".labiblia", description: null, rowId: `${usedPrefix}labiblia`},
 
  
 ]}, ]
